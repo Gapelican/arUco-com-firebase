@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: json2json
+Version: 0.1.0
+Summary: A tool for converting JSON documents to another JSON document format.
+Home-page: https://github.com/ebi-ait/ingest-archiver/tree/master/conversion
+Author: rdgoite
+Author-email: rodrey@ebi.ac.uk
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+
+UNKNOWN
+
+
